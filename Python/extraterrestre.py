@@ -82,3 +82,5 @@ cond_cie()
 pontos = coleta(pontos)
 
 fim(pontos)
+
+print("fim da missão")
