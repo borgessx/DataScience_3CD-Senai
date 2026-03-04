@@ -83,4 +83,4 @@ pontos = coleta(pontos)
 
 fim(pontos)
 
-print("fim da missão")
+print("fim da missão extraterrestre")
