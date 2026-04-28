@@ -1,1 +1,0 @@
-# Algoritmo e Fluxograma#### \- AlgoritmoConjunto de regras e operaçõesA partir do algoritmo será construído um programa, estará escrito em alguma linguagem.Lembrar: edição, compilação, execução, depuração.#### -Conceito de Problema 	>Segue um fluxograma para solucionar o problema#### -Logica 	>
